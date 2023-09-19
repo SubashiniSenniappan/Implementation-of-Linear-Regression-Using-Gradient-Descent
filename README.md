@@ -94,7 +94,23 @@ print("For population =70,000,we predict a profit a profit of $"+str(round(predi
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+
+### COMPUTE COST VALUE
+![image](https://github.com/SubashiniSenniappan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119404951/2ffae377-fbdc-42a3-a7e8-9b3043ee2485)
+## H(X) VALUE
+![image](https://github.com/SubashiniSenniappan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119404951/5b26aefb-07ae-4837-9e2a-2eb5dff7b2cc)
+## COST FUNCTION USING GRADIENT DESCENT GRAPH
+![image](https://github.com/SubashiniSenniappan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119404951/42eb96c4-12be-48b7-ae6b-b273c0e19501)
+## PROFIT PREDICTION GRAPH
+![image](https://github.com/SubashiniSenniappan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119404951/fedde34b-82c4-4f6f-9fa8-3d62cfd2cac7)
+## PROFIT FOR THE POPULATION 35,000
+![image](https://github.com/SubashiniSenniappan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119404951/2a4d6782-6c39-420c-8089-6b9204e20909)
+## PROFIT FOR THE POPULATION 70,000
+![image](https://github.com/SubashiniSenniappan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119404951/116e4dce-3ee7-4efc-9a23-4b68d77909e4)
+
+
+
+
 
 
 ## Result:
